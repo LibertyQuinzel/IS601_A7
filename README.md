@@ -58,11 +58,3 @@ Add those under the repository Settings → Secrets → Actions before expecting
 
 - If `qr_codes/` is missing, create it: `mkdir -p qr_codes`.
 - If Docker push fails on GitHub Actions, confirm the secrets are set and that the target tag/repository exists or the account has permission to create it.
-
-## License
-
-This repo doesn't include an explicit license file. Add one if you plan to publish or share the code.
-
-## Want me to push?
-
-I created and committed this file locally; if you want I can push the commit to `origin/main` for you.
